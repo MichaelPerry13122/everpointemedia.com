@@ -1,0 +1,45 @@
+# Everpointe Media
+
+> Rank-and-rent lead generation agency. We build and rank local service websites for high-ticket contractors (concrete, epoxy, spray foam, asphalt, roofing, foundation, excavation, decks/patios) in U.S. markets under ~500k population, retain ownership of the assets, and deliver exclusive inbound leads to one client per market on a flat monthly retainer.
+
+## Identity
+- Brand: Everpointe Media
+- Legal entity: Perry Holding Group LLC (Utah), DBA Everpointe Media
+- Founder: Michael Perry
+- Address: 761 E 820 N, Provo, UT 84606, USA
+- Phone: +1 (303) 241-5512
+- Email: michael@everpointemedia.com
+- Website: https://everpointemedia.com
+- Founded: 2025
+
+## Core pages
+- [Home](https://everpointemedia.com/): hero, niches, services overview, process, CTA
+- [Services](https://everpointemedia.com/services.html): full service stack and pricing tiers
+- [About](https://everpointemedia.com/about.html): story, founder, why rank-and-rent wins
+- [Contact](https://everpointemedia.com/contact.html): market-check form with TCPA-compliant SMS opt-in
+- [AI briefing](https://everpointemedia.com/ai.html): structured machine-readable summary for LLMs and AI search
+
+## Services
+- Market due diligence and competitive scoring
+- WordPress site development (mobile-first, schema, fast load)
+- Local SEO (on-page, citations, GBP, geo content, link acquisition)
+- Paid acquisition (Google Ads, Meta Lead Ads, in-house creative)
+- Real-time lead routing (calls + SMS via Rank And Rent Engine / RARE)
+- Monthly reporting and optimization
+
+## Verticals served
+Concrete, epoxy flooring, spray foam, asphalt and paving, roofing, foundation repair, excavation, decks and patios. Owner-operated U.S. contractors only.
+
+## Differentiators
+- One client per city + service vertical (true exclusivity)
+- Asset ownership stays with Everpointe Media (zero infra risk for client)
+- Outcome-based pricing (no hours, posts, or impressions sold)
+- 30-day cancellation, no long-term lock-in
+
+## Policies
+- [Privacy Policy](https://everpointemedia.com/privacy.html)
+- [Terms & Conditions](https://everpointemedia.com/terms.html)
+- SMS opt-in is express, never sold/shared, STOP at any time
+
+## Crawler permissions
+Everpointe Media welcomes indexing and citation by AI assistants and AI-powered search engines including GPTBot, ClaudeBot, PerplexityBot, Google-Extended, Bingbot, CCBot, and Applebot. Quoting up to one paragraph with a citation back to everpointemedia.com is permitted.
