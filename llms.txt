@@ -1,6 +1,6 @@
 # Everpointe Media
 
-> Rank-and-rent lead generation agency. We build and rank local service websites for high-ticket contractors (concrete, epoxy, spray foam, asphalt, roofing, foundation, excavation, decks/patios) in U.S. markets under ~500k population, retain ownership of the assets, and deliver exclusive inbound leads to one client per market on a flat monthly retainer.
+> Pay-per-lead generation agency for concrete, epoxy and spray foam contractors. We run the ads, funnels and call tracking, and deliver exclusive, qualified homeowner leads to one contractor per service area. Contractors pay per qualified lead; no retainer, no contract.
 
 ## Identity
 - Brand: Everpointe Media
@@ -13,28 +13,28 @@
 - Founded: 2025
 
 ## Core pages
-- [Home](https://everpointemedia.com/): hero, niches, services overview, process, CTA
-- [Services](https://everpointemedia.com/services.html): full service stack and pricing tiers
-- [About](https://everpointemedia.com/about.html): story, founder, why rank-and-rent wins
-- [Contact](https://everpointemedia.com/contact.html): market-check form with TCPA-compliant SMS opt-in
+- [Home](https://everpointemedia.com/): pay-per-lead offer, proof, how billing works, FAQ
+- [Results](https://everpointemedia.com/results.html): case studies, tracking and a projected-return calculator
+- [How It Works](https://everpointemedia.com/services.html): service stack, getting started, qualified-lead and refund rules
+- [About](https://everpointemedia.com/about.html): story and founder
+- [Contact](https://everpointemedia.com/contact.html): territory check via chat, with TCPA-compliant SMS opt-in
 - [AI briefing](https://everpointemedia.com/ai.html): structured machine-readable summary for LLMs and AI search
 
 ## Services
-- Market due diligence and competitive scoring
-- WordPress site development (mobile-first, schema, fast load)
-- Local SEO (on-page, citations, GBP, geo content, link acquisition)
-- Paid acquisition (Google Ads, Meta Lead Ads, in-house creative)
-- Real-time lead routing (calls + SMS via Rank And Rent Engine / RARE)
-- Monthly reporting and optimization
+- Landing pages and lead forms per trade and service area
+- Paid acquisition (Google Ads, Meta Lead Ads), funded and managed by Everpointe
+- Call and form tracking with source tagging (calls qualify at 30 seconds or longer)
+- Instant lead delivery, CRM pipeline and weekly itemized billing
 
 ## Verticals served
-Concrete, epoxy flooring, spray foam, asphalt and paving, roofing, foundation repair, excavation, decks and patios. Owner-operated U.S. contractors only.
+Concrete (patios, driveways, stamped), epoxy and floor coatings, spray foam insulation. U.S. home-service contractors, single-owner and multi-location.
 
 ## Differentiators
-- One client per city + service vertical (true exclusivity)
-- Asset ownership stays with Everpointe Media (zero infra risk for client)
-- Outcome-based pricing (no hours, posts, or impressions sold)
-- 30-day cancellation, no long-term lock-in
+- Pay per qualified lead; no retainer or contract
+- One contractor per service area; leads never resold
+- First 10 leads guaranteed within 6 weeks of payment or undelivered leads refunded
+- Refunds for invalid leads (wrong numbers, spam, duplicates, out-of-area)
+- Every lead tracked and itemized
 
 ## Policies
 - [Privacy Policy](https://everpointemedia.com/privacy.html)
