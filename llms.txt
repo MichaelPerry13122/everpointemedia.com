@@ -4,10 +4,10 @@
 
 ## Identity
 - Brand: Everpointe Media
-- Legal entity: Perry Holding Group LLC (Utah), DBA Everpointe Media
+- Legal entity: Perry Holding Group (Utah), DBA Everpointe Media
 - Founder: Michael Perry
 - Address: 761 E 820 N, Provo, UT 84606, USA
-- Phone: +1 (303) 241-5512
+- Phone: +1 (904) 932-9841
 - Email: michael@everpointemedia.com
 - Website: https://everpointemedia.com
 - Founded: 2025
@@ -15,7 +15,7 @@
 ## Core pages
 - [Home](https://everpointemedia.com/): pay-per-lead offer, proof, how billing works, FAQ
 - [Results](https://everpointemedia.com/results.html): case studies, tracking and a projected-return calculator
-- [How It Works](https://everpointemedia.com/services.html): service stack, getting started, qualified-lead and refund rules
+- [How It Works](https://everpointemedia.com/services.html): service stack, getting started, qualified-lead and replacement rules
 - [About](https://everpointemedia.com/about.html): story and founder
 - [Contact](https://everpointemedia.com/contact.html): territory check via chat, with TCPA-compliant SMS opt-in
 - [AI briefing](https://everpointemedia.com/ai.html): structured machine-readable summary for LLMs and AI search
@@ -32,8 +32,7 @@ Concrete (patios, driveways, stamped), epoxy and floor coatings, spray foam insu
 ## Differentiators
 - Pay per qualified lead; no retainer or contract
 - One contractor per service area; leads never resold
-- First 10 leads guaranteed within 6 weeks of payment or undelivered leads refunded
-- Refunds for invalid leads (wrong numbers, spam, duplicates, out-of-area)
+- Free replacements for invalid leads (wrong numbers, spam, duplicates, out-of-area)
 - Every lead tracked and itemized
 
 ## Policies
