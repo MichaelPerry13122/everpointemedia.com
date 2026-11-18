@@ -3,6 +3,7 @@
   'use strict';
   var PRESETS = {
     epoxy:    { price: 70, job: 3500, close: 10 },
+    painting: { price: 100, job: 4500, close: 10 },
     spray:    { price: 75, job: 4500, close: 8 },
     concrete: { price: 65, job: 5000, close: 6 }
   };
